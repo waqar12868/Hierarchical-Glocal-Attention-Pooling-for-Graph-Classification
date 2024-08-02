@@ -1,4 +1,5 @@
 # Hierarchical-Glocal-Attention-Pooling-for-Graph-Classification
+![G-Local (1)](https://github.com/user-attachments/assets/fbe4816f-ba39-4c52-8293-113f9e941b4e)
 
 
 
