@@ -11,10 +11,10 @@ Graph pooling is an essential operation in Graph Neural Networks that reduces th
  informative nodes). However, an effective graph pooling method does not hierarchically integrate both Global and Local graph properties. To this end, we propose a dual-fold Hierarchical Global Local Attention Pooling (HGLA-Pool) layer that exploits the aforementioned graph properties, generating more robust graph representations. Exhaustive experiments on nine publicly available graph classification benchmarks under standard metrics show that HGLA-Pool significantly outperforms eleven state-of-the-art models on seven datasets while being on par for the remaining two.
 
 # Contribution of this work
-• Propose dual-fold pooling to capture global and local properties for classification.
-• Fold1 uses a developed rule-based method to identify overlapping nodes among cliques.
-• Develop dynamic scoring to rank the most informative global structures like cliques.
-• Fold2 uses LocalPool to refine cliques by focusing on key nodes within cliques.
+• Propose dual-fold pooling to capture global and local properties for classification. <br>
+• Fold1 uses a developed rule-based method to identify overlapping nodes among cliques. <br>
+• Develop dynamic scoring to rank the most informative global structures like cliques. <br>
+• Fold2 uses LocalPool to refine cliques by focusing on key nodes within cliques. <br>
 • The proposed method outperforms 11 state-of-the-art models on seven diverse datasets.
 
 # Dependencies
