@@ -18,22 +18,22 @@ Graph pooling is an essential operation in Graph Neural Networks that reduces th
 • The proposed method outperforms 11 state-of-the-art models on seven diverse datasets.
 
 # Dependencies
-pytorch=1.13.1
-torch-geometric=2.3.0
-torch-scatter=2.1.1
-torch-sparse=0.6.17
-torch-spline-conv=1.2.2
+pytorch=1.13.1 <br>
+torch-geometric=2.3.0 <br>
+torch-scatter=2.1.1 <br>
+torch-sparse=0.6.17 <br>
+torch-spline-conv=1.2.2 <br>
 torch-cluster=1.6.1
 
 # Citation
 If you found the provided code with our paper useful in your work, we kindly request that you cite our work.
 
-@article{ali2024hierarchical,
-  title={Hierarchical glocal attention pooling for graph classification},
-  author={Ali, Waqar and Vascon, Sebastiano and Stadelmann, Thilo and Pelillo, Marcello},
-  journal={Pattern Recognition Letters},
-  volume={186},
-  pages={71--77},
-  year={2024},
-  publisher={Elsevier}
+@article{ali2024hierarchical,<br>
+  title={Hierarchical glocal attention pooling for graph classification},<br>
+  author={Ali, Waqar and Vascon, Sebastiano and Stadelmann, Thilo and Pelillo, Marcello},<br>
+  journal={Pattern Recognition Letters},<br>
+  volume={186},<br>
+  pages={71--77},<br>
+  year={2024},<br>
+  publisher={Elsevier}<br>
 }
