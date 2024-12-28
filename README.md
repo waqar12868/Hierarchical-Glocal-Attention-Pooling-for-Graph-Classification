@@ -1,6 +1,7 @@
 # Hierarchical-Glocal-Attention-Pooling-for-Graph-Classification
 
 Official Code Repository for the paper "Hierarchical Glocal Attention Pooling for Graph Classification" (Pattern Recognition Letter 2024): https://doi.org/10.1016/j.patrec.2024.09.009
+
 In this repository, we implement the proposed Hierarchical Glocal Attention Pooling.
 
 ![G-Local (1)](https://github.com/user-attachments/assets/fbe4816f-ba39-4c52-8293-113f9e941b4e)
